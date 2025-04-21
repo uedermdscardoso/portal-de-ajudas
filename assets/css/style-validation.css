@@ -1,0 +1,13 @@
+.has-error .help-block {
+    background-color:#f2dede;
+    border:1px solid #ebccd1;
+    width:100%;
+    padding:3px;
+    color: #a94442;
+    display:block;
+    text-align:center;
+}
+
+.style{
+    margin-bottom:3px;
+}

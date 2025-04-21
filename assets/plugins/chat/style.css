@@ -1,0 +1,35 @@
+.chat{
+	position: absolute;
+	padding: 0;
+	height: 400px;
+	box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.41);
+	margin-bottom: 0;
+	margin-left: 10%;
+	margin-top: 50px;
+}
+.title{
+	background: linear-gradient(45deg, #a8f7ff, #2f7bff);
+	padding: 10px;
+	color: white;
+	text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.21);
+	box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.41);
+}
+.text-box {
+	background-color: white;
+	padding-right: 34px;
+}
+.text-box input{
+	margin-bottom: 10px !important;
+	margin-top: 1px;
+	float: left;
+	border: 1px solid rgba(52, 52, 52, 0.23);
+	border-radius: 5px;
+	padding: 5px;
+	color: rgba(41, 41, 41, 0.82);
+	width: 100%;
+}
+#body-msgs{
+	height: 300px;
+	overflow: scroll;
+	padding: 20px 20px 0 20px;
+}

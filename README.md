@@ -20,3 +20,9 @@ focused on this purpose.
 ## Authors 
 
 This project was created by Ueder Cardoso (https://github.com/uedermdscardoso)
+
+## FAQ
+
+## Changelog
+
+## Conclusion

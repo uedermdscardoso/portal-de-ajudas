@@ -1,6 +1,6 @@
-#README
+# README
 
-#$ Donation system for churches and NGOs
+## Donation system for churches and NGOs
 
 This project was a final paper launched at the regional college in São Paulo’s inland city.
 
